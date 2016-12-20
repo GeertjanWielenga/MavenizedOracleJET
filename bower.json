@@ -7,8 +7,7 @@
     "**/*.txt"
   ],
   "dependencies": {
-    "knockout": "3.4.0",
-    "jquery": "2.1.4"
+    "oraclejet": "latest"
   },
   "devDependencies": {}
 }
